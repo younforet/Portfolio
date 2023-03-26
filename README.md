@@ -5,4 +5,5 @@
 | Название проекта | Задачи | Стек | 
 | :---------------------- | :---------------------- | :---------------------- |
 | [Выделение групп пользователей мобильного приложения на основе поведения](https://github.com/younforet/Portfolio/tree/main/App_groups_project)| Изучить поведение, определить метрики для сегментации и выделить группы пользователей мобильного приложения по продаже ненужных вещей.| *pandas, matplotlib, seaborn, numpy, scipy* |
+| [Анализ результатов A/B-теста](https://github.com/younforet/Portfolio/tree/main/App_groups_project)| Проанализировать результаты A/B-теста по изменениям, связанным с внедрением улучшенной рекомендательной системы.| *pandas, numpy, matplotlib, seaborn, statsmodels.stats.proportion|
 | [Анализ базы данных сервиса для чтения книг по подписке](https://github.com/younforet/Portfolio/tree/main/SQL_project)| Произвести различные выгрузки данных из базы сервиса с помощью SQL | *SQL, sqlalchemy*|
