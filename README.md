@@ -5,6 +5,6 @@
 | Название проекта | Задачи | Стек | 
 | :---------------------- | :---------------------- | :---------------------- |
 | [Выделение групп пользователей мобильного приложения на основе поведения (ipynb)](https://github.com/younforet/Portfolio/tree/main/App_groups_project)| Изучить поведение, определить метрики для сегментации и выделить группы пользователей мобильного приложения по продаже ненужных вещей.| *pandas, matplotlib, seaborn, numpy, scipy* |
-| [Анализ результатов A/B-теста (ipynb)](https://github.com/younforet/Portfolio/tree/main/AB_test_project)| Проанализировать результаты A/B-теста по изменениям, связанным с внедрением улучшенной рекомендательной системы.| *pandas, numpy, matplotlib, seaborn*|
+| [Анализ результатов A/B-теста (ipynb)](https://github.com/younforet/Portfolio/tree/main/AB_test_project)| Проанализировать результаты A/B-теста. Проведение теста связано с внедрением улучшенной рекомендательной системы.| *pandas, numpy, matplotlib, seaborn*|
 | [Анализ базы данных сервиса для чтения книг по подписке (ipynb)](https://github.com/younforet/Portfolio/tree/main/SQL_project)| Произвести различные выгрузки данных из базы сервиса с помощью SQL | *SQL, sqlalchemy*|
 | [Создание дашборда по пользовательским событиям для агрегатора новостей (Tableau Public)](https://public.tableau.com/app/profile/younforet/viz/DzenProject_16749327824170/Dashboard1?publish=yes)| Используя данные Яндекс.Дзена построить дашборд с метриками взаимодействия пользователей с карточками статей | *Tableau*|
