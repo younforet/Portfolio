@@ -1,6 +1,6 @@
 # Анализ базы данных сервиса для чтения книг по подписке
 
-[ipynb](https://github.com/younforet/Portfolio/blob/main/SQL_project/sql_project.ipynb)
+Закончен – [ipynb](https://github.com/younforet/Portfolio/blob/main/SQL_project/sql_project.ipynb)
 
 ## Описание
 
