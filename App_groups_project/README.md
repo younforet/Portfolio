@@ -1,6 +1,6 @@
 # Выделение групп пользователей мобильного приложения на основе поведения
 
-[ipynb](https://github.com/younforet/Portfolio/blob/main/App_groups_project/app_groups_project.ipynb)
+Закончен – [ipynb](https://github.com/younforet/Portfolio/blob/main/App_groups_project/app_groups_project.ipynb)
 
 ## Описание 
 
