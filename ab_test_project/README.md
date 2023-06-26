@@ -1,6 +1,6 @@
 # Анализ результатов A/B-теста
 
-Закончен – [ipynb](https://github.com/younforet/Portfolio/blob/main/AB_test_project/ab_test_project.ipynb)
+Закончен – [ipynb](https://github.com/younforet/Portfolio/blob/main/ab_test_project/ab_test_project.ipynb)
 
 ## Описание
 
